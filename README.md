@@ -21,13 +21,27 @@ Our project provides a user-friendly interface for exploring a network of statio
 -Hover your mouse over the destination station. Click the "End" button that appears.
 
 -The application will automatically display the shortest path between the selected stations.
-
-![Screenshot (57)](https://github.com/rahul-sharma24/Shortest-Path/assets/143305880/822cba06-145a-4fbc-9c57-022a5ca0ec48)
-
-![Screenshot (64)](https://github.com/rahul-sharma24/Shortest-Path/assets/143305880/1b1d539e-3753-4f6e-847c-5493ada535ef)
-
-![Screenshot (65)](https://github.com/rahul-sharma24/Shortest-Path/assets/143305880/065988a2-c208-48d8-ba4c-93c11dc42f1d)
+Interacting with the User Interface
+Hover: Hover your mouse over a station to see its details.
+Start Button: Click the "Start" button that appears when hovering over your selected starting station.
+End Button: After clicking the "Start" button, hover over the destination station to reveal the "End" button.
+Shortest Path: The application will automatically display the shortest path between the selected stations.
 
 #How Dijkstra's Algorithm is Used
 Dijkstra's algorithm is employed in this project to calculate the shortest path between two stations within the network. It works by iteratively selecting the station with the minimum distance from the starting station and updating the distances to its neighbors. This process continues until the shortest path to the destination station is found.
 
+
+![Screenshot 2023-09-01 174847](https://github.com/rahul-sharma24/Shortest-Path/assets/143305880/027e3748-5c5e-4662-b1ee-f54638855a8e)
+
+
+![Screenshot 2023-09-01 174812](https://github.com/rahul-sharma24/Shortest-Path/assets/143305880/37f6a9ed-0be7-4401-aa4b-af5ec6f9d648)
+
+![Screenshot 2023-09-01 174739](https://github.com/rahul-sharma24/Shortest-Path/assets/143305880/2051b9a1-6e7f-43ba-9d07-987510f60927)
+
+
+#Contributors:
+-Rahul
+-Rakesh
+
+#here is the project link
+[project Link](http://127.0.0.1:5500/graph.html)
